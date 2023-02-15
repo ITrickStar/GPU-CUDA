@@ -1,0 +1,13 @@
+﻿  Source.cpp
+D:\Works\CUDA\AXPY_CUDA\AXPY_CUDA\Source.cpp(48,49): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Works\CUDA\AXPY_CUDA\AXPY_CUDA\ArrayFeatures.h(56,57): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Works\CUDA\AXPY_CUDA\AXPY_CUDA\Source.cpp(44): message : see reference to function template instantiation 'T *CreateArray<float>(int)' being compiled
+          with
+          [
+              T=float
+          ]
+  AXPY_CUDA.vcxproj -> D:\Works\CUDA\AXPY_CUDA\x64\Debug\AXPY_CUDA.exe
